@@ -6,5 +6,6 @@ begins
 
 (image_start.png)
 
+<p class="highlight-text">This text will be red.</p>
 
 
